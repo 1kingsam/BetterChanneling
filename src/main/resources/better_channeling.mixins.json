@@ -4,7 +4,7 @@
   "package": "net.the1kingStudio.betterChanneling.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ThrownTridentMixin"
+    "ThrownTridentMixin", "LightningRodBlockMixin"
   ],
   "injectors": {
     "defaultRequire": 1
