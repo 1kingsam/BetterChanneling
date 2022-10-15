@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "better_channeling",
+  "version": "${version}",
+
+  "name": "Better Channeling",
+  "description": "Channeling works during regular rain",
+  "authors": [
+    "1kingsam"
+  ],
+  "contact": {
+    "homepage": "https://youtube.com/the1kingsam"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/better_channeling/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.the1kingStudio.betterChanneling.BetterChannelingMod"
+    ]
+  },
+  "mixins": [
+    "better_channeling.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
