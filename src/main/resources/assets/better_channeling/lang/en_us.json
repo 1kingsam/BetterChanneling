@@ -1,0 +1,8 @@
+{
+  "better_channeling.midnightconfig.title":"Better Channeling Options",
+  "better_channeling.midnightconfig.entityWeather": "Channeling on Entities",
+  "better_channeling.midnightconfig.rodWeather": "Channeling on Lightning Rods",
+  "better_channeling.midnightconfig.enum.Weather.THUNDERSTORMS": "Thunderstorms (Vanilla)",
+  "better_channeling.midnightconfig.enum.Weather.RAIN": "Rain AND Thunderstorms",
+  "better_channeling.midnightconfig.enum.Weather.ANYTIME": "Any Weather"
+}
